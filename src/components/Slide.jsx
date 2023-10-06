@@ -71,7 +71,7 @@ const Slide = ({ finish ,setshow}) => {
         if(visible){
           Setlevel("");
           setshow(false);
-          SetGameOver(true);
+          // SetGameOver(true);
         }
       }
     }, overLimit); // Decrease the timer every 1000 milliseconds (1 second)
