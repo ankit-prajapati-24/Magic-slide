@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Magic-slide/static/css/main.fedf1d5e.css",
+    "main.js": "/Magic-slide/static/js/main.f5fcf69c.js",
+    "static/js/787.d9f8e6af.chunk.js": "/Magic-slide/static/js/787.d9f8e6af.chunk.js",
+    "static/media/logo.svg": "/Magic-slide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Magic-slide/index.html",
+    "main.fedf1d5e.css.map": "/Magic-slide/static/css/main.fedf1d5e.css.map",
+    "main.f5fcf69c.js.map": "/Magic-slide/static/js/main.f5fcf69c.js.map",
+    "787.d9f8e6af.chunk.js.map": "/Magic-slide/static/js/787.d9f8e6af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedf1d5e.css",
+    "static/js/main.f5fcf69c.js"
+  ]
+}
