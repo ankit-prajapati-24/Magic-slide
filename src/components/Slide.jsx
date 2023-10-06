@@ -69,8 +69,8 @@ const Slide = ({ finish ,setshow}) => {
         console.log(timer);
       } else {
         if(visible){
-          Setlevel("");
-          setshow(false);
+          // Setlevel("");
+          // setshow(false);
           // SetGameOver(true);
         }
       }
