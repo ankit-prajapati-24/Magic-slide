@@ -1,0 +1,39 @@
+*{
+  overflow-y: hidden;
+}
+.SlideDownLevel1{
+  animation: magicslide1 10s linear;
+}
+.SlideDownLevel2{
+  
+  animation: magicslide2 5s linear;
+}
+.SlideDownLevel3{
+  animation: magicslide3 3s linear ;
+}
+.SlideDownLevel4{
+  animation: magicslide4 2s linear;
+}
+.SlideDownLevel5{
+  animation: magicslide 2s linear ;
+}
+@keyframes magicslide1 {
+   100%{
+  transform: translateY(2000px);
+   }
+}
+@keyframes magicslide2 {
+   100%{
+  transform: translateY(1500px);
+   }
+}
+@keyframes magicslide3 {
+   100%{
+  transform: translateY(1000px);
+   }
+}
+@keyframes magicslide4 {
+   100%{
+  transform: translateY(800px);
+   }
+}
