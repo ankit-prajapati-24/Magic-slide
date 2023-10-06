@@ -80,7 +80,7 @@ const Slide = ({ finish ,setshow}) => {
   }, [timer, SetGameOver,score]);
 
   return (
-    <div className={`bg-black w-full  py-6 ${level} ${visible ? 'flex' : 'hidden'}`} onClick={clickHandler}></div>
+    <div className={`bg-black w-full  py-9  ${level} ${visible ? 'flex' : 'hidden'}`} onClick={clickHandler}></div>
     
   );
 };
